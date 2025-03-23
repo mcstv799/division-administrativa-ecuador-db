@@ -1,18 +1,6 @@
 # Base de Datos de División Administrativa del Ecuador  
 
-Este repositorio contiene scripts SQL para la creación y población de una base de datos con información de las provincias, cantones y parroquias del Ecuador, basada en los datos oficiales del **Censo de Población y Vivienda 2022**.  
-
-## Fuente de los Datos  
-
-La base de datos ha sido creada a partir de la información publicada en:  
-
-- **Fuente:** VIII Censo de Población y VII de Vivienda (2022)  
-- **Elaboración:** Instituto Nacional de Estadística y Censos (INEC)  
-
-El archivo original con los datos se encuentra disponible en:  
-[2022_CPV_NACIONAL_DENSIDAD_POBLACIONAL.xlsx](https://www.censoecuador.gob.ec/wp-content/uploads/2023/10/2022_CPV_NACIONAL_DENSIDAD_POBLACIONAL.xlsx).  
-
-Para garantizar la disponibilidad de los datos en caso de que el enlace deje de estar activo, el archivo ha sido incluido en este repositorio como respaldo.  
+Este repositorio contiene scripts SQL para la creación y población de una base de datos con información de las provincias, cantones y parroquias del Ecuador.
 
 ## Contenido del Repositorio  
 
